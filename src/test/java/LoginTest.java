@@ -30,7 +30,7 @@ public class LoginTest {
 		
 		driver.get("http://gmail.com");
 		driver.findElement(By.id("Email")).sendKeys("ustech.gauravk.com");
-		driver.findElement(By.id("Pawd")).sendKeys("sdfdsf");
+		//driver.findElement(By.id("Pawd")).sendKeys("sdfdsf");
 	/*
 	 * 
 	 * added new comments
